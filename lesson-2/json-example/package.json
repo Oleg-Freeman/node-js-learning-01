@@ -1,0 +1,21 @@
+{
+  "name": "work-with-json-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "commander": "^9.4.0",
+    "uuid": "^9.0.0",
+    "yargs": "^17.5.1"
+  }
+}
