@@ -2,7 +2,7 @@ const fs = require('fs/promises');
 const path = require('path');
 const { v4: uuid } = require('uuid');
 
-const booksPath = path.join(__dirname, 'books.json'); // folder1/folder2/folder3
+const booksPath = path.join(__dirname, 'books.json');
 
 async function getAll() {
     const result = await fs.readFile(booksPath);

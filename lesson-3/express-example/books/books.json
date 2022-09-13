@@ -1,0 +1,72 @@
+[
+  {
+    "id": "u9kgwNWGi3uUUwh0b8V49",
+    "title": "Learn Node.js 2",
+    "author": "Clever Guy"
+  },
+  {
+    "id": "YxhM4QDxPeA3SmPHcEZPJ",
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolas Bevacqua"
+  },
+  {
+    "id": "zCd_RioNMOBaQwAXnc8Px",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "ck89qe3HriUDHe09TBoJ8",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
+    "id": "e1Tpn_I3wBkLREY6wG0lb",
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  },
+  {
+    "id": "Op8ApLTY0-Vn2cR0vDIwG",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson"
+  },
+  {
+    "id": "dkJSszfrRVtLVR_MfRqcu",
+    "title": "Pro Git",
+    "author": "Scott Chacon and Ben Straub"
+  },
+  {
+    "id": "CTHE0f1kkWwqS5sL2tI8_",
+    "title": "Rethinking Productivity in Software Engineering",
+    "author": "Caitlin Sadowski, Thomas Zimmermann"
+  },
+  {
+    "id": "68504c63-76d8-4792-a052-6be1bb5276fa",
+    "title": "Learn Node.js",
+    "author": "Clever Guy"
+  },
+  {
+    "id": "db7056b0-920e-497b-95d7-4378e05624ee",
+    "title": "Learn Node.js",
+    "author": "Clever Guy"
+  },
+  {
+    "id": "0510bb5e-69c4-4e37-8951-f0cc0e83a089",
+    "title": "New Book",
+    "author": "Unknown Author"
+  },
+  {
+    "id": "6467e8d9-4821-4fed-8c6b-c13b658e5003",
+    "title": "t1",
+    "author": "author"
+  },
+  {
+    "id": "0bee6559-a575-48a1-af0e-e89d67c2df1c",
+    "title": "Node learning",
+    "author": "John Smith"
+  },
+  {
+    "id": "c82f23d2-c583-4332-ad1c-94166c97af7b",
+    "title": "Node learning 2",
+    "author": "John Smith II"
+  }
+]
