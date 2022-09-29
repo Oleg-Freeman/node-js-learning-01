@@ -18,10 +18,12 @@ const userSchema = new Schema(
             match: [passwordRegEx, 'Not valid password'],
             required: true,
         },
+        token: String,
+        // firstLogin: Date
     },
     { versionKey: false, timestamps: true }
 );
 
-const User = model('user', userSchema);
+const User = model('User', userSchema);
 
 module.exports = User;
